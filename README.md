@@ -1,1 +1,1 @@
-# RecursionExercisePowerInclTests
+# RecursionExercisePowerInclTests C# exercies for recursive methods - power function.
